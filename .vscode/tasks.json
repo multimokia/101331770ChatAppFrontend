@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "launch Pixel 2 API 33",
+            "type": "shell",
+            "command": "emulator -avd Pixel_2_API_33",
+            "problemMatcher": []
+        }
+    ]
+}
